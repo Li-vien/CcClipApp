@@ -1,8 +1,4 @@
 
-|      Flutter 学习讨论📝              |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    | 
-|:------------------------------:|:-----------------------------------:| 
-| ![Flutter.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/Flutter.png) |     ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png)  |
-
 
 # CcClipApp
 
